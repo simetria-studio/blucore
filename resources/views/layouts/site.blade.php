@@ -51,7 +51,9 @@
     <header>
         <nav>
             <div class="logo">
-                <img src="{{ asset('site/img/logo-blue.png') }}" alt="BluCore Logo">
+                <a href="{{ route('home') }}">
+                    <img src="{{ asset('site/img/logo-blue.png') }}" alt="BluCore Logo">
+                </a>
             </div>
             <div class="nav-links">
                 <a href="{{ route('home') }}">Home</a>
