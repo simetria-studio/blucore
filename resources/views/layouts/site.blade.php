@@ -103,9 +103,9 @@
                 <p><i class="fas fa-phone"></i> (11) 1234-5678</p>
                 <p><i class="fas fa-envelope"></i> contato@blucore.com.br</p>
                 <div class="social-links">
-                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    {{-- <a href="#"><i class="fab fa-facebook"></i></a> --}}
                     <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                    {{-- <a href="#"><i class="fab fa-linkedin"></i></a> --}}
                     <a href="#"><i class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
